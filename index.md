@@ -27,6 +27,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
+For my final milestone, I added my own spin (pun intended) on the original project by employing a servo that is able to pan the camera back and forth based on if the camera is centered on the ball. The logic for following the ball is for the servo to turn a certain amount of degrees untill the camera is centered on the ball, where it would then reset its position to the middle and the robot will turn that amount of degrees left or right depending if the amount is more or less than the center position of the camera. The challenge that arose from this was determining how long the robot should turn for each degree. I was able to solve this through trial and error, where I eventually was able to determine it to be 0.0015 seconds. Through Bluestamp and this project, I have been able to gain both technical and practical lessons to use in the future. I plan to use my new found technical understanding of ultrasonic sensors and cameras to further my future persuits in engineering and STEM. As for my practical learnings, I plan to use in multiple aspects of my daily life. I've learned how even when it seems as though nothing is going your way, you need to keep trying because eventually, things will start to look up. I hope to be able to continue my engineering journey and be exposed to more subjects in this wonderful feild. 
+
 
 
 # Second Milestone
@@ -39,7 +41,9 @@ For your second milestone, explain what you've worked on since your previous mil
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- What needs to be completed before your final milestone
+
+For my second milestone, I was able to finish my base project of having the robot be able to track the ball. I addeed the camera which is able to track the ball through computer vision techniques like contours, whiich draw borders 
 
 # First Milestone
 
